@@ -12,6 +12,26 @@
 
 <img src="https://github.com/user-attachments/assets/2c084aeb-4bbc-44ba-822b-948ab4391a56" alt="avatar" width="200"/>
 
+## Projets 
+
+ # ConfoChic - Boutique en ligne de mobilier chic
+
+Un site e-commerce pour acheter des canapés, tables basses et fauteuils avec un design élégant.
+
+![Aperçu](<img width="1414" alt="Visuel" src="https://github.com/user-attachments/assets/14aceb16-a9ee-4619-b2c8-7c967d8fd7cd">)
+ 
+Fonctionnalités :
+- Recherche de produits
+- Filtrage par catégories
+- Panier avec Stripe pour le paiement
+- Connexion et inscription utilisateur
+- Système de "likes" pour les produits
+  
+https://decochic.vercel.app/
+- ![Aperçu]([<img width="800" alt="Visuel" src="https://github.com/user-attachments/assets/9c101da6-7ca8-4dd8-b7aa-20d581c137b3">](https://res.cloudinary.com/dtkyr0fbb/image/upload/v1730977930/Visuel_g4b5tx.png)
+)
+
+
 
 ## 📊 Github Stats
 
